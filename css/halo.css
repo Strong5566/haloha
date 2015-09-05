@@ -393,4 +393,10 @@ body {
     text-align:left;
 }
 
+.navbar-header{
+    color:#fff;
+}
 
+.textright{
+    text-align:right;
+}
